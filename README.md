@@ -1,1 +1,1 @@
-# serverless-aws-playground
+# github-actions-playground
