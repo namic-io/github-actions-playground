@@ -1,2 +1,2 @@
-![Continuous Integration Pipeline](https://github.com/namic-io/github-actions-playground/workflows/workflows/continuous-integration/badge.svg)
-![Continuous Deployment Pipeline](https://github.com/namic-io/github-actions-playground/workflows/continuous-deployment/badge.svg)
+![Continuous Integration Pipeline](https://github.com/namic-io/github-actions-playground/workflows/Continuous%20Integration%20Pipeline/badge.svg)
+![Continuous Deployment Pipeline](https://github.com/namic-io/github-actions-playground/workflows/Continuous%20Deployment%20Pipeline/badge.svg)
