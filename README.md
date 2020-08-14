@@ -1,3 +1,5 @@
+![Continuous Integration Playground](https://github.com/namic-io/github-actions-playground/workflows/Continuous%20Integration%20Playground/badge.svg?branch=develop&event=status)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
