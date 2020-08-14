@@ -1,4 +1,4 @@
-name: Continuous Deployment Playground
+name: Continuous Deployment Pipeline
 
 on:
   push:
